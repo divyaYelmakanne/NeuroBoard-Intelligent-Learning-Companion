@@ -3,6 +3,8 @@
 > Take a look at live Website : https://neuro-board-intelligent-learning-co.vercel.app/                                                                                      
 > Your intelligent learning companion. Track progress, manage tasks, and achieve academic excellence with AI-powered insights.
 
+Note : Switch to black mode so you can visible to see everything in webpage. After you signing in you will see on top right corner beside notification symbol to switch from light mode to dark mode.
+
 ## 🚀 Overview
 
 NeuroBoard is a comprehensive educational platform designed to revolutionize the way students learn and manage their academic journey. Built with modern web technologies, it provides an intuitive and powerful interface for tracking progress, managing tasks, and accessing learning resources.
@@ -335,5 +337,6 @@ For support, please contact:
 **Made with ❤️ for students everywhere**
 
 *Transform your learning journey with NeuroBoard - Your intelligent learning companion.*
+
 
 
